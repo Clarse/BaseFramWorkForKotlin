@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BaseFrameWorkForKotlin</string>
+    <string name="okay">确定</string>
 </resources>
