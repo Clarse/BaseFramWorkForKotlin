@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/BaseFrameWorkForKotlin/app/src/main/res/drawable/ic_expand_more_black_24dp.xml" value="0.321" />
+        <entry key="..\:/BaseFrameWorkForKotlin/app/src/main/res/drawable/shape_rectangular_edit_bg.xml" value="0.321" />
+        <entry key="..\:/BaseFrameWorkForKotlin/app/src/main/res/drawable/shape_rectangular_white_bg.xml" value="0.321" />
         <entry key="..\:/BaseFrameWorkForKotlin/app/src/main/res/layout/activity_main.xml" value="0.3567708333333333" />
+        <entry key="..\:/BaseFrameWorkForKotlin/app/src/main/res/layout/dialog_setting_http.xml" value="0.5" />
+        <entry key="..\:/BaseFrameWorkForKotlin/app/src/main/res/layout/pop_item.xml" value="0.30483112441214194" />
       </map>
     </option>
   </component>
