@@ -3,7 +3,7 @@ package com.example.api.retrofit
 
 import android.util.Log
 import com.eohi.haixinpad.api.retrofit.SSLContextSecurity
-import com.example.base.ApiService
+import com.example.api.ApiService
 import com.example.utils.Preference
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

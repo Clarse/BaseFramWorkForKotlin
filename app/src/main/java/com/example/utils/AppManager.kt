@@ -1,4 +1,4 @@
-package com.example.base
+package com.example.utils
 
 import android.app.Activity
 import java.util.*

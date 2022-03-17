@@ -12,6 +12,7 @@ import com.example.api.HttpUtil
 import com.example.api.error.ErrorResult
 import com.example.event.EventCode
 import com.example.event.EventMessage
+import com.example.utils.AppManager
 import com.example.utils.Extensions.showShortToast
 import com.example.utils.LogUtil
 import com.example.utils.Preference

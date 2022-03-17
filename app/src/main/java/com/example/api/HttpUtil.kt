@@ -1,7 +1,6 @@
 package com.example.api
 
 import com.example.api.retrofit.RetrofitClient
-import com.example.base.ApiService
 
 class HttpUtil {
 

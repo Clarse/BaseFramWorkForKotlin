@@ -110,7 +110,7 @@ object Extensions {
         Snackbar.make(this, message, Snackbar.LENGTH_LONG)
             .setAction(actionLabel) {
                 block()
-            }
+            }.show()
     }
 
 

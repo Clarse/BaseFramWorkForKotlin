@@ -1,13 +1,12 @@
 package com.example.baseframeworkforkotlin
 
 import android.os.Bundle
-import androidx.appcompat.app.AppCompatActivity
 import com.example.base.BaseActivity
 import com.example.base.BaseViewModel
 import com.example.baseframeworkforkotlin.databinding.ActivityMainBinding
 import java.util.*
 
-class MainActivity : BaseActivity<BaseViewModel,ActivityMainBinding>() {
+class MainActivity : BaseActivity<BaseViewModel, ActivityMainBinding>() {
     lateinit var list: List<String>
     var a = 1
     var b = 2

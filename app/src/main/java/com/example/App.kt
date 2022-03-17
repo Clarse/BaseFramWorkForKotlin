@@ -21,6 +21,11 @@ class App : Application() {
         }
     }
 
+    override fun onCreate() {
+        super.onCreate()
+        instance = this
+    }
+
     init {
         //设置全局默认配置（优先级最低，会被其他设置覆盖）
         SmartRefreshLayout.setDefaultRefreshInitializer { _: Context?, layout: RefreshLayout ->
